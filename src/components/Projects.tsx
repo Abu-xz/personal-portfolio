@@ -15,7 +15,7 @@ const Projects = () => {
         "https://images.unsplash.com/photo-1661956602944-249bcd04b63f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       technologies: ["MongoDB", "Express", "Node.js", "EJS", "Tailwind CSS"],
       demoUrl: "https://example.com",
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Abu-xz/",
     },
     {
       title: "Marvel Customs Design",
@@ -30,7 +30,7 @@ const Projects = () => {
         "Lucide-React",
       ],
       demoUrl: "https://example.com",
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Abu-xz/",
     },
     {
       title: "OLX Clone",
@@ -39,7 +39,7 @@ const Projects = () => {
       image: "/image/olx-clone.png",
       technologies: ["React", "Context API", "Firebase", "Tailwind CSS"],
       demoUrl: "https://example.com",
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Abu-xz/",
     },
     {
       title: "Netflix Clone",
@@ -48,7 +48,7 @@ const Projects = () => {
       image: "/image/netflix-clone.png",
       technologies: ["React", "Firebase", "TMDB API", "Tailwind CSS"],
       demoUrl: "https://example.com",
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Abu-xz/",
     },
     {
       title: "ChatHive - Simple Chat App",
@@ -57,7 +57,7 @@ const Projects = () => {
       image: "/image/chat-hive.png",
       technologies: ["Express", "Socket.io", "HTML", "CSS"],
       demoUrl: "https://example.com",
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Abu-xz/",
     },
     {
       title: "Vertex-Studys",
@@ -119,7 +119,7 @@ const Projects = () => {
           transition={{ delay: 0.5 }}
         >
           <a
-            href="https://github.com/muhammedabbas"
+            href="https://github.com/Abu-xz/"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary inline-flex items-center"
