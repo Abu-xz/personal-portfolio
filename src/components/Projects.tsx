@@ -14,8 +14,8 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1661956602944-249bcd04b63f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       technologies: ["MongoDB", "Express", "Node.js", "EJS", "Tailwind CSS"],
-      demoUrl: "https://example.com",
-      githubUrl: "https://github.com/Abu-xz/",
+      demoUrl: "",
+      githubUrl: "https://github.com/Abu-xz/UrbanGents",
     },
     {
       title: "Marvel Customs Design",
@@ -29,7 +29,25 @@ const Projects = () => {
         "Framer Motion",
         "Lucide-React",
       ],
-      demoUrl: "https://example.com",
+      demoUrl: "",
+      githubUrl: "https://github.com/Abu-xz/",
+    },
+    {
+      title: "Vertex",
+      description:
+        "A professional and responsive static website built for a tuition center, featuring an intuitive layout, engaging design, and seamless contact form integration using Web3Forms API.",
+      image: "/image/vertex-studys.png",
+      technologies: ["HTML", "CSS", "JavaScript", "Web3Forms API"],
+      demoUrl: "https://vertexstudys.com/",
+      githubUrl: "https://github.com/Abu-xz/vertex-studyes",
+    },
+    {
+      title: "ChatHive - Simple Chat App",
+      description:
+        "A lightweight, real-time chat application using WebSockets for instant messaging and a responsive UI.",
+      image: "/image/chat-hive.png",
+      technologies: ["Express", "Socket.io", "HTML", "CSS"],
+      demoUrl: "https://chathive-p8ir.onrender.com/",
       githubUrl: "https://github.com/Abu-xz/",
     },
     {
@@ -38,7 +56,7 @@ const Projects = () => {
         "A fully functional OLX-style marketplace, enabling users to list, search, and buy/sell products seamlessly.",
       image: "/image/olx-clone.png",
       technologies: ["React", "Context API", "Firebase", "Tailwind CSS"],
-      demoUrl: "https://example.com",
+      demoUrl: "",
       githubUrl: "https://github.com/Abu-xz/",
     },
     {
@@ -47,36 +65,10 @@ const Projects = () => {
         "A sleek Netflix-inspired streaming platform with user authentication, dynamic content fetching, and smooth UI transitions.",
       image: "/image/netflix-clone.png",
       technologies: ["React", "Firebase", "TMDB API", "Tailwind CSS"],
-      demoUrl: "https://example.com",
+      demoUrl: "",
       githubUrl: "https://github.com/Abu-xz/",
     },
-    {
-      title: "ChatHive - Simple Chat App",
-      description:
-        "A lightweight, real-time chat application using WebSockets for instant messaging and a responsive UI.",
-      image: "/image/chat-hive.png",
-      technologies: ["Express", "Socket.io", "HTML", "CSS"],
-      demoUrl: "https://example.com",
-      githubUrl: "https://github.com/Abu-xz/",
-    },
-    {
-      title: "Vertex-Studys",
-      description: "A professional and responsive static website built for a tuition center, featuring an intuitive layout, engaging design, and seamless contact form integration using Web3Forms API.",
-      image: "/image/vertex-studys.png",
-      technologies: ["HTML", "CSS", "JavaScript", "Web3Forms API"],
-      demoUrl: "https://vertexstudys.com/",
-      githubUrl: "https://github.com/Abu-xz/vertex-studyes",
-  },
   ];
-
-  // {
-  //   title: "Task Management App",
-  //   description: "A real-time task management application with drag-and-drop functionality, team collaboration features, and notifications.",
-  //   image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-  //   technologies: ["React", "Node.js", "Socket.io", "MongoDB", "Tailwind CSS"],
-  //   demoUrl: "https://example.com",
-  //   githubUrl: "https://github.com",
-  // },
 
   return (
     <section id="projects" className="py-24" ref={ref}>
