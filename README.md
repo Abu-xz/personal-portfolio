@@ -47,7 +47,7 @@ This is a **modern developer portfolio** built with **TypeScript, React, Tailwin
 (Add some preview images or GIFs of your portfolio here)
 
 ## 🔗 Live Demo
-[Live Portfolio](https://personal-portfolio-neon-ten.vercel.app/)
+[Live Portfolio](https://personal-portfolio-9ahn8u1nw-abbas-firdous-projects.vercel.app/)
 
 ## 🤝 Contributing
 Feel free to fork and modify the project. If you have suggestions or feature requests, open an issue!
