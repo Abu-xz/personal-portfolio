@@ -41,7 +41,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <motion.a
           href="#hero"
-          className="text-2xl font-bold text-gradient"
+          className="text-sm md:text-2xl font-bold text-gradient"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
