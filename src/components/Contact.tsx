@@ -131,6 +131,11 @@ const Contact = () => {
     {
       name: "LinkedIn",
       icon: <icons.Linkedin className="h-5 w-5" />,
+      link: "https://www.linkedin.com/in/muhammed-abbas/",
+    },
+    {
+      name: "Instagram",
+      icon: <icons.Instagram className="h-5 w-5" />,
       link: "https://www.instagram.com/_abu._.zx_/",
     },
   ];
