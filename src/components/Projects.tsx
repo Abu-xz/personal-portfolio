@@ -33,6 +33,21 @@ const Projects = () => {
       githubUrl: "https://github.com/Abu-xz/",
     },
     {
+      title: "TaskNest",
+      description:
+        "A full-stack task manager application built with React and TypeScript on the frontend, and Express with MongoDB on the backend. Designed to explore strong typing and clean architecture through the Repository Pattern. Includes full CRUD functionality and a responsive UI.",
+      image: "/image/task-next.png",
+      technologies: [
+        "React",
+        "TypeScript",
+        "Express",
+        "MongoDB",
+        "Repository Pattern",
+      ],
+      demoUrl: "", 
+      githubUrl: "https://github.com/Abu-xz/task-manager", // Update if the repo URL is different
+    },
+    {
       title: "Vertex",
       description:
         "A professional and responsive static website built for a tuition center, featuring an intuitive layout, engaging design, and seamless contact form integration using Web3Forms API.",
