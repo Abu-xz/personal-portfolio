@@ -36,7 +36,7 @@ const Projects = () => {
       title: "TaskNest",
       description:
         "A full-stack task manager application built with React and TypeScript on the frontend, and Express with MongoDB on the backend. Designed to explore strong typing and clean architecture through the Repository Pattern. Includes full CRUD functionality and a responsive UI.",
-      image: "/image/task-next.png",
+      image: "/image/task-nest.png",
       technologies: [
         "React",
         "TypeScript",
