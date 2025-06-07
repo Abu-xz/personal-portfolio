@@ -74,7 +74,7 @@ const Hero = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.6 }}
-              className="flex justify-around space-x-2"
+              className="flex justify-around sm:justify-start space-x-2 sm:space-x-4"
             >
               <a href="#projects" className="btn-primary">
                 View My Work
@@ -91,7 +91,7 @@ const Hero = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.8 }}
-              className="mt-8 flex justify-center space-x-4"
+              className="mt-8 flex justify-center sm:justify-start space-x-4"
             >
               {socialLinks.map((link) => (
                 <motion.a
@@ -131,7 +131,7 @@ const Hero = () => {
         </div>
         
         <motion.div
-          className="absolute bottom-0  inset-x-0 flex justify-center"
+          className="absolute bottom-0 py-4 inset-x-0 flex justify-center"
           animate={{ y: [0, 10, 0] }}
           transition={{ repeat: Infinity, duration: 1.5 }}
         >
