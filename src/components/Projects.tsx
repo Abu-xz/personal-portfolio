@@ -8,7 +8,7 @@ const Projects = () => {
 
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "Urban Gents",
       description:
         "A full-stack, feature-rich e-commerce platform focused on men's fashion. It features a well-structured user interface and an intuitive admin dashboard for seamless order and inventory management.",
       image:
